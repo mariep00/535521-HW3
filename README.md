@@ -1,6 +1,6 @@
 # HW3 - Instance Segmentation with Mask R-CNN
 
-This project implements an instance segmentation pipeline using Mask R-CNN with a ResNet-50 backbone for detecting and segmenting individual cells in microscopy images. It was developed in a single Python notebook for Homework 3 of the NYCU course *Visual Recognition using Deep Learning (Spring 2025)*.
+This project implements an instance segmentation pipeline using Mask R-CNN with a ResNet-50 backbone for detecting and segmenting individual cells in microscopy images. It was developed in a single Python notebook for Homework 3 of the NYCU course *Topics in Visual Recognition using Deep Learning (Spring 2025)*.
 
 ---
 
@@ -88,5 +88,4 @@ test-results.json
 
 Marie P.  
 Student ID: 313551818  
-NYCU Spring 2025  
 
